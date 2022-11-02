@@ -119,7 +119,7 @@ On Linux:
 
 7- Clone the GlistEngine repo
 
-> git clone https://github.com/yourgithub/burakdemirci26/glistengine.git
+> git clone https://github.com/burakdemirci26/glistengine.git
 
 
 8- Go to myglistapps folder
@@ -136,7 +136,7 @@ On Linux:
 
 9- Clone the GlistApp repo
 
-> git clone https://github.com/yourgithub/burakdemirci26/glistapp.git
+> git clone https://github.com/burakdemirci26/glistapp.git
 
 
 10- Run the GlistEngine
